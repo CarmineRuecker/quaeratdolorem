@@ -1,0 +1,31 @@
+{
+  "jss-plugin-cache.js": {
+    "bundled": 1138,
+    "minified": 572,
+    "gzipped": 356
+  },
+  "jss-plugin-cache.min.js": {
+    "bundled": 1138,
+    "minified": 572,
+    "gzipped": 356
+  },
+  "jss-plugin-cache.cjs.js": {
+    "bundled": 748,
+    "minified": 371,
+    "gzipped": 261
+  },
+  "jss-plugin-cache.esm.js": {
+    "bundled": 666,
+    "minified": 302,
+    "gzipped": 217,
+    "treeshaked": {
+      "rollup": {
+        "code": 0,
+        "import_statements": 0
+      },
+      "webpack": {
+        "code": 951
+      }
+    }
+  }
+}
